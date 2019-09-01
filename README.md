@@ -35,8 +35,9 @@ Should you experience anything that violates this code, or makes you feel unwelc
 OooShiny is always growing! Existing members can invite new members by the following procedure:
 
 1. Send their email and name to the list moderators.
-2. Wait until the new member notifies you that they have received and accepted an invite to the list.
-3. Post a courteous, professional, and supportive welcome thread to the list to give the new member visibility and tag your subject line by prefixing it with **[Intro]**.
+2. Link them to this Code of Conduct so they can review it.
+3. Wait until the new member notifies you that they have received and accepted an invite to the list.
+4. Post a courteous, professional, and supportive welcome thread to the list to give the new member visibility and tag your subject line by prefixing it with **[Intro]**.
 
 Members are encouraged to reply with a welcome message to [Intro] threads, especially if they don't already know the person being introduced!
 
