@@ -6,7 +6,7 @@ OooShiny represents a diverse group of artists, designers, engineers, developers
 
 ## Origin
 
-The OooShiny mailing list was originally created in San Francisco in 2007 to supplant a real-life meetup where members were encouraged to present their work to a small, supportive audience. Over time a community was built around sharing work and evolved to became a resource for technical knowledge and job/gig listings. Because members have been encouraged to invite others, the list grew organically to what it is now. Members are encouraged to organize and host their own meetups by posting to the list.
+The OooShiny mailing list was originally created in San Francisco in 2007 to complement a real-life meetup where members were encouraged to present their work to a small, supportive audience. Over time a community was built around sharing work and evolved to became a resource for technical knowledge and job/gig listings. Because members have been encouraged to invite others, the list grew organically to what it is now. Members are encouraged to organize and host their own meetups by posting to the list.
 
 ## Rules
 
