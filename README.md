@@ -21,7 +21,7 @@ The OooShiny mailing list was originally created in San Francisco in 2007 to com
     - Stalking or following
     - Any other kind of harassment
 2. **Be respectful.** Disagreement is not an opportunity to attack someone else's thoughts or opinions. Although views may differ, remember to approach every situation with patience and care.
-3. **Be encouraging.** Share your knowledge, prop up those who need support, go out of your way to support and mentor those who are unseen or unheard. 
+3. **Be encouraging.** Share your knowledge. Prop up those who need support. Go out of your way to support and mentor those who are unseen or unheard.
 4. **Be considerate.** Think about how your contribution will affect others in the community. Be mindful of sarcasm and snark that detract from or derail the conversation in a negative way. Trolling and personal attacks are forbidden.
 5. **Be exemplary and remember the person**. When you communicate to other people on this list, you must ask yourself “Would I say this to the person's face in front of a group of my respected peers, mentors, teachers, and students?”
 6. **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
