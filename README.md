@@ -2,7 +2,9 @@
 
 ## Community
 
-OooShiny represents a diverse group of artists, designers, engineers, developers, creators, curators and others interested in discussing art and technology topics. The list is member managed and owned. Your voice is always welcome. Even if you’re lurking, your presence is appreciated!
+OooShiny represents a diverse group of artists, designers, engineers, developers, creators, curators and others interested in discussing art and technology topics. The list is member managed and owned.
+
+Your voice is always welcome. It's natural to feel intimidated when posting to a group of peers as large as OooShiny. Even if you’re lurking, your presence is appreciated!
 
 ## Origin
 
