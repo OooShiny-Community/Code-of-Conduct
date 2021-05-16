@@ -30,13 +30,13 @@ The OooShiny mailing list was originally created in San Francisco in 2007 to com
 
 ## Moderation
 
-Should you experience anything that violates this code, or makes you feel unwelcome on the list, please [contact one of the moderators](https://groups.google.com/forum/#!contactowner/oooshiny).
+Should you experience anything that violates this code, or makes you feel unwelcome on the list, notify the moderators at [<mods@shiny.ooo>](mailto:mods@shiny.ooo).
 
 ## Adding New Members
 
 OooShiny is always growing! Existing members can invite new members by the following procedure:
 
-1. Send their email and name to the list moderators.
+1. Send their email and name to the list moderators at [<mods@shiny.ooo>](mailto:mods@shiny.ooo).
 2. Wait until the new member notifies you that they have received and accepted an invite to the list.
 3. Post a courteous, professional, and supportive welcome thread to the list to give the new member visibility and tag your subject line by prefixing it with **[Intro]**.
 
