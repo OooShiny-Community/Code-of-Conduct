@@ -26,17 +26,17 @@ The OooShiny mailing list was originally created in San Francisco in 2007 to com
 5. **Be exemplary and remember the person**. When you communicate to other people on this list, you must ask yourself “Would I say this to the person's face in front of a group of my respected peers, mentors, teachers, and students?”
 6. **Be open minded.** Embrace new people and new ideas. Our community is continually evolving and we welcome positive change.
 7. **Keep it on-topic.** Consider if what you say serves the intent of the original post. If not, create a new thread.
-8. **Speak up.** If you see bad behavior, please call it out with a link to this document, and/or notify the moderators at [mods@shiny.ooo](mailto:mods@shiny.ooo).
+8. **Speak up.** If you see bad behavior, please call it out with a link to this document, and/or notify the moderators at [oooshiny.mods@gmail.com](oooshiny.mods@gmail.com).
 
 ## Moderation
 
-Should you experience anything that violates this code, or makes you feel unwelcome on the list, please contact the moderators at [mods@shiny.ooo](mailto:mods@shiny.ooo).
+Should you experience anything that violates this code, or makes you feel unwelcome on the list, please contact the moderators at [oooshiny.mods@gmail.com](oooshiny.mods@gmail.com).
 
 ## Adding New Members
 
 OooShiny is always growing! Existing members can invite new members by the following procedure:
 
-1. Send their email and name to the list moderators at [mods@shiny.ooo](mailto:mods@shiny.ooo).
+1. Send their email and name to the list moderators at [oooshiny.mods@gmail.com](oooshiny.mods@gmail.com).
 2. Wait until the new member notifies you that they have received and accepted an invite to the list.
 3. Post a courteous, professional, and supportive welcome thread to the list to give the new member visibility and tag your subject line by prefixing it with **[Intro]**.
 
