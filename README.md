@@ -40,7 +40,7 @@ OooShiny is always growing! Existing members can invite new members by the follo
 2. Wait until the new member notifies you that they have received and accepted an invite to the list.
 3. Post a courteous, professional, and supportive welcome thread to the list to give the new member visibility and tag your subject line by prefixing it with **[Intro]**.
 
-Members are encouraged to reply with a welcome message to [Intro] threads, especially if they don't already know the person being introduced!
+Members are encouraged to reply with a welcome message to [Intro] threads, even if they don't already know the person being introduced!
 
 ## Subject Line Tags
 
