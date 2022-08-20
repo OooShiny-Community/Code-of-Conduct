@@ -13,7 +13,7 @@ The OooShiny mailing list was originally created in San Francisco in 2007 to com
 ## Rules
 
 1. **Be mindful of your language.** Any of the following behavior is unacceptable:
-    - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, or background
+    - Offensive comments related to gender identity and expression, sexual orientation, race, ethnicity, language, neuro-type, size, ability, class, religion, culture, subculture, political opinion, age, skill level, occupation, background, or any other minority group or protected class
     - Threats of violence
     - Deliberate intimidation
     - Sexually explicit or violent material that is not contextualized and preceded by a considerate warning
